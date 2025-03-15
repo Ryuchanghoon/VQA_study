@@ -1,2 +1,2 @@
 # VQA_study
-VQA sefl 실습
+VQA self실습
